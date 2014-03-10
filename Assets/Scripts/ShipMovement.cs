@@ -12,7 +12,7 @@ public class ShipMovement : MonoBehaviour
 
 	void Start()
 	{
-		
+		Data.shipAlive = true;
 	}
 
 	void Update()

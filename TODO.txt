@@ -1,0 +1,3 @@
+ * destroy gibs after 15 sec
+ * destroy bullets after 15 sec
+ * destroy bullet on building collision
