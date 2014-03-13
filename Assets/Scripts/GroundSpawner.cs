@@ -34,7 +34,7 @@ public class GroundSpawner : MonoBehaviour
 
 	private void Remove()
 	{
-		if (!Data.shipAlive) {
+		if (Data.shipAlive) {
 			Destroy(gameObject);
 		}
 	}

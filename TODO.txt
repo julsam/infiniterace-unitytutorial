@@ -1,3 +1,4 @@
- * destroy gibs after 15 sec
- * destroy bullets after 15 sec
- * destroy bullet on building collision
+ * remplacer collider des beasts par un cube
+ * agrandir taille bullet
+ * rajouter des objets pickup
+ * canon triple (tire dans 3 directions)

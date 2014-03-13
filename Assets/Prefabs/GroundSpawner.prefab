@@ -54,7 +54,7 @@ Transform:
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: .707106829, y: 0, z: 0, w: .707106829}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 250, y: 250, z: 1}
+  m_LocalScale: {x: 4000, y: 1000, z: 1}
   m_Children: []
   m_Father: {fileID: 400000}
 --- !u!23 &2300000
@@ -69,7 +69,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 4b2bdbd2cf35d6444b11a29389e27ca8, type: 2}
+  - {fileID: 2100000, guid: 1b6e00c0a1370604da93148ce5a18f92, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -110,7 +110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   groundSpawner: {fileID: 100000}
-  ship: {fileID: 100000, guid: 7d0215f0366f71d4aa6ef3207a344e10, type: 2}
+  ship: {fileID: 0}
   distanceToCheck: 150
 --- !u!1001 &100100000
 Prefab:
