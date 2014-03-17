@@ -1,4 +1,2 @@
- * remplacer collider des beasts par un cube
- * agrandir taille bullet
- * rajouter des objets pickup
  * canon triple (tire dans 3 directions)
+ * quand beast meurt -> chance qu'il y ai pickup a choper
