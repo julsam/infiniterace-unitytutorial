@@ -1,6 +1,9 @@
  * lumiere sur les bullets
+ * faire une animation pour les pick up (plus rayonnement ?)
  * canon triple (tire dans 3 directions)
  * quand beast meurt -> chance qu'il y ai pickup a choper
+ * possibilité de faire varier taille et durée des particules dans unity : à travailler.
+ * trail (trainé)
  
  
 ### Optimisations ###

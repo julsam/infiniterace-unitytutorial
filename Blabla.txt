@@ -1,0 +1,5 @@
+ * BG : Totalement abstrait. Formes géométriques de base. Utiliser l'effet "fil de fer" (transparant, juste avec les arrêtes)
+ * Joueur = boule de piques (de forme étoile) avec effet de vibration, nerveuse.
+ * Possibilité de monter et descendre ?
+ * BG bis : Invasion Extraterrestre.
+ * Cohérence graphique : pixel
